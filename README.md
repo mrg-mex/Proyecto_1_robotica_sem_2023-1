@@ -5,6 +5,7 @@
 - M.I. Erik Peña Medina (responsable)
 - Castañeda López Josué Ángel (participante) 
 - López Ortiz Alan (participante)
+- Nava Dominguez José Carlos (participante)
 
 
 ## Objetivo
